@@ -19,7 +19,7 @@ Atouts : Arcanes (Super-pouvoirs), Arme fétiche (Bouclier en vibranium), Blocag
 Pouvoirs : _Résistance_ (1), _Sens augmentés_ (1), _Super-Atout_ (14) [Combatif, Costaud, Encaisser comme un champion, Esquive, Frappe éclair, Frénésie, Nerfs d’acier], _Super-Attribut_ (20) [Agilité +3, Force +5, Vigueur +2], _Super-Compétence_ (9) [Combat +3, Escalade +2, Lancer +2, Natation +2].
 
  PAR RES
- 10 (2) 14 [4]
+ 8 [+4](2) 13 [+2] (4)
 
 ### Capacités spéciales
 - Acrobate : Agilité +2 si lié à la souplesse, Parade +1 si non encombré.
@@ -30,7 +30,7 @@ Pouvoirs : _Résistance_ (1), _Sens augmentés_ (1), _Super-Atout_ (14) [Combati
 - Brave : +2 aux jets de Terreur.
 - Combatif : +2 pour annuler Secoué.
 - Commandement : +1 pour annuler Secoué pour les alliés dans un rayon de 5 cases.
-- Dur à toucher : -2 aux attaques à distance contre le personnage (*Esquive* et *Vitesse*), -4 avec bouclier (voir ci-dessus).
+- Dur à toucher : attaque à distance ennemie -2 (*Esquive* et *Vitesse*), -4 avec bouclier (voir ci-dessus), Agi +1 contre attaque de zone.
 - Encaisser comme un champion : Encaissement +2.
 - [P] _Endurance_ (1, métabolisme amélioré) : Résistance et jet pour résister +4 contre les dégâts et effets Biologiques.
 - Nerfs d’acier : ignore 1 point de malus de Blessures.
